@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-skincare-page/static/css/main.b3e1cf67.css",
+    "main.js": "/react-skincare-page/static/js/main.d13691a5.js",
+    "static/media/img-map.jpg": "/react-skincare-page/static/media/img-map.1869f4bfcb78446aac3a.jpg",
+    "static/media/img-hero.png": "/react-skincare-page/static/media/img-hero.73ce0ac4747e76de3268.png",
+    "static/media/Uncut-Sans-Variable.ttf": "/react-skincare-page/static/media/Uncut-Sans-Variable.9f28dcc1eade01809d70.ttf",
+    "static/media/img-product-moisturiser.jpg": "/react-skincare-page/static/media/img-product-moisturiser.bad9911b2326e156dd9e.jpg",
+    "static/media/img-product-hydrater.jpg": "/react-skincare-page/static/media/img-product-hydrater.d4031ee56414b4936c8c.jpg",
+    "static/media/img-product-serum.jpg": "/react-skincare-page/static/media/img-product-serum.0a59e0b3d6a4ff4f7702.jpg",
+    "static/media/img-review-2.jpg": "/react-skincare-page/static/media/img-review-2.a5174dd2c323dc1b3866.jpg",
+    "static/media/img-review-1.jpg": "/react-skincare-page/static/media/img-review-1.a16ef42031dc989a552e.jpg",
+    "index.html": "/react-skincare-page/index.html",
+    "main.b3e1cf67.css.map": "/react-skincare-page/static/css/main.b3e1cf67.css.map",
+    "main.d13691a5.js.map": "/react-skincare-page/static/js/main.d13691a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3e1cf67.css",
+    "static/js/main.d13691a5.js"
+  ]
+}
